@@ -1,21 +1,21 @@
 # M-GAT-GraphSAGE
 data
-包含用于实验的所有数据集：完整数据集、训练集、验证集与独立测试集。
+Contains all datasets used in the experiments: the full dataset, training set, validation set, and independent test set.
 
 train.py / test.py
-train.py 为最终模型训练脚本；
-test.py 为独立测试脚本。
+train.py is the final model training script;
+test.py is the independent testing script.
 
 ablation
-包含所有消融实验的相关内容与代码。
+Includes all ablation experiment code and related materials.
 
 gnn
-收录本文评估的各类图神经网络实现。
+Contains implementations of the investigated graph neural networks.
 
 fingerprint
-包含参与对比实验的所有分子指纹方法。
+Includes all molecular fingerprints used for experimental comparisons.
 
-Python 环境
+Python Environment
 python = 3.8.18
 numpy = 1.24.4
 pandas = 2.0.3

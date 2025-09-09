@@ -1,18 +1,18 @@
 # M-GAT-GraphSAGE
-data
+data：
 Contains all datasets used in the experiments: the full dataset, training set, validation set, and independent test set.
 
-train.py / test.py
+train.py / test.py：
 train.py is the final model training script;
 test.py is the independent testing script.
 
-ablation
+ablation：
 Includes all ablation experiment code and related materials.
 
-gnn
+gnn：
 Contains implementations of the investigated graph neural networks.
 
-fingerprint
+fingerprint：
 Includes all molecular fingerprints used for experimental comparisons.
 
 Python Environment

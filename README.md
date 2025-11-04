@@ -15,7 +15,7 @@
 
 ## ⚙️ Python Environment
 
-```bash
+
 python      == 3.8.18
 numpy       == 1.24.4
 pandas      == 2.0.3
@@ -27,6 +27,7 @@ pycaret     == 3.2.0
 xgboost     == 2.1.4
 
 ---
+
 ## ⚙️ Experimental Procedures
 
 Step-by-step Procedure for Stratified Sampling of Representative Molecules

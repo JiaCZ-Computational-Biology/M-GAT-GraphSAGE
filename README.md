@@ -140,9 +140,3 @@ This confirms the final sample set evenly covers prediction confidence, interpre
 | **Verification** | Quantitative range analysis across three dimensions |
 
 ---
-
-## 📚 Citation
-
-If you use this repository or its methods, please cite appropriately (citation to be added).
-
----
